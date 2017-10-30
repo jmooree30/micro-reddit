@@ -1,25 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+View lesson here :[The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# micro-reddit
+```
+$ git clone https://github.com/jmooree30/micro-reddit.git
+$ bundle install
+$ db:migrate
+```
